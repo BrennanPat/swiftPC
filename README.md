@@ -6,9 +6,9 @@
 
 ## 📸 Screenshots
 
-| System Overview | Optimization Tools |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_1_HERE" width="400" /> | <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_2_HERE" width="400" /> |
+| App Overview |
+| :---: |
+| <img src="https://github.com/BrennanPat/swiftPC/blob/main/swiftPC.png" width="400" /> |
 
 ---
 
@@ -45,17 +45,3 @@
   * `Quick Optimize` automated routine
   * Full Registry cleaning & automated backup standard workflows
   * Live CPU Temperature readout (`TMP`)
-
----
-
-## 🛠️ Getting Started
-
-### Prerequisites
-* Windows 10 or higher
-* Node.js (v16 or higher)
-
-### Installation & Local Run
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/swiftPC.git](https://github.com/your-username/swiftPC.git)
